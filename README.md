@@ -1,1 +1,1 @@
-# This is my chat sytem project
+# This is my chat-system project
